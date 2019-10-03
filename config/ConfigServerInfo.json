@@ -1,0 +1,68 @@
+[{
+	"type":"ssh",
+	"ip":"192.168.1.3",
+	"user":"root",
+	"name":"NS1",
+	"port":"22",
+	"keygen":"/home/hamid/.ssh/id_rsa",
+	"fileNameMemory":"/var/www/html/api/files/resource/192.168.1.3_testMemory.txt",
+	"fileNameHardisk":"/var/www/html/api/files/resource/192.168.1.3_testHardisk.txt",
+	"fileNameUptime":"/var/www/html/api/files/resource/192.168.1.3_testUptime.txt",
+	"fileNameServiceStatus":"/var/www/html/api/files/resource/192.168.1.3_testServiceStatus.txt",
+	"fileNameMailStat":"-",
+	"fileNameMailq":"-"
+}
+,{
+	"type":"ssh",
+	"ip":"192.168.1.8",
+	"user":"root",
+	"name":"NS2",
+	"port":"22",
+	"keygen":"/home/hamid/.ssh/id_rsa",
+	"fileNameMemory":"/var/www/html/api/files/resource/192.168.1.8_testMemory.txt",
+	"fileNameHardisk":"/var/www/html/api/files/resource/192.168.1.8_testHardisk.txt",
+	"fileNameUptime":"/var/www/html/api/files/resource/192.168.1.8_testUptime.txt",
+	"fileNameServiceStatus":"/var/www/html/api/files/resource/192.168.1.8_testServiceStatus.txt",
+	"fileNameMailStat":"/var/www/html/api/files/resource/192.168.1.8_testMailStat.txt",
+	"fileNameMailq":"/var/www/html/api/files/resource/192.168.1.8_testMailq.txt"
+}
+,{
+	"type":"ssh",
+	"ip":"192.168.1.9",
+	"user":"root",
+	"name":"Email External",
+	"port":"12345",
+	"keygen":"/home/hamid/.ssh/id_rsa",
+	"fileNameMemory":"/var/www/html/api/files/resource/192.168.1.9_testMemory.txt",
+	"fileNameHardisk":"/var/www/html/api/files/resource/192.168.1.9_testHardisk.txt",
+	"fileNameUptime":"/var/www/html/api/files/resource/192.168.1.9_testUptime.txt",
+	"fileNameServiceStatus":"/var/www/html/api/files/resource/192.168.1.9_testServiceStatus.txt",
+	"fileNameMailStat":"/var/www/html/api/files/resource/192.168.1.9_testMailStat.txt",
+	"fileNameMailq":"/var/www/html/api/files/resource/192.168.1.9_testMailq.txt"
+},{
+	"type":"ssh",
+	"ip":"192.168.1.66",
+	"user":"root",
+	"name":"Server Backup",
+	"port":"22",
+	"keygen":"/home/hamid/.ssh/id_rsa",
+	"fileNameMemory":"/var/www/html/api/files/resource/192.168.1.66_testMemory.txt",
+	"fileNameHardisk":"/var/www/html/api/files/resource/192.168.1.66_testHardisk.txt",
+	"fileNameUptime":"/var/www/html/api/files/resource/192.168.1.66_testUptime.txt",
+	"fileNameServiceStatus":"/var/www/html/api/files/resource/192.168.1.66_testServiceStatus.txt",
+	"fileNameMailStat":"-",
+	"fileNameMailq":"-"
+},{
+	"type":"ssh",
+	"ip":"192.168.6.223",
+	"user":"backup-server",
+	"name":"Server Backup2",
+	"port":"22",
+	"keygen":"/home/hamid/.ssh/id_rsa",
+	"fileNameMemory":"/var/www/html/api/files/resource/192.168.6.223_testMemory.txt",
+	"fileNameHardisk":"/var/www/html/api/files/resource/192.168.6.223_testHardisk.txt",
+	"fileNameUptime":"/var/www/html/api/files/resource/192.168.6.223_testUptime.txt",
+	"fileNameServiceStatus":"/var/www/html/api/files/resource/192.168.6.223_testServiceStatus.txt",
+	"fileNameMailStat":"-",
+	"fileNameMailq":"-"
+}]
