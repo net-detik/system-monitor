@@ -1,6 +1,6 @@
 #/!bash
 
-for row in $(cat /var/www/html/api/source/ConfigServerInfo.json | jq -r '.[] | @base64'); do
+for row in $(cat /var/www/html/api/config/ConfigServerInfo.json | jq -r '.[] | @base64'); do
     _jq() {
      echo ${row} | base64 --decode | jq -r ${1}
     }	
