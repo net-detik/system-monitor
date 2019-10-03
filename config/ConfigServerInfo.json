@@ -5,10 +5,10 @@
 	"name":"Server_1",
 	"port":"22",
 	"keygen":"/home/hamid/.ssh/id_rsa",
-	"fileNameMemory":"/var/www/html/api/files/resource/192.168.1.3_testMemory.txt",
-	"fileNameHardisk":"/var/www/html/api/files/resource/192.168.1.3_testHardisk.txt",
-	"fileNameUptime":"/var/www/html/api/files/resource/192.168.1.3_testUptime.txt",
-	"fileNameServiceStatus":"/var/www/html/api/files/resource/192.168.1.3_testServiceStatus.txt",
+	"fileNameMemory":"/var/www/html/api/files/resource/192.168.1.3_Memory.txt",
+	"fileNameHardisk":"/var/www/html/api/files/resource/192.168.1.3_Hardisk.txt",
+	"fileNameUptime":"/var/www/html/api/files/resource/192.168.1.3_Uptime.txt",
+	"fileNameServiceStatus":"/var/www/html/api/files/resource/192.168.1.3_ServiceStatus.txt",
 	"fileNameMailStat":"-",
 	"fileNameMailq":"-"
 }
@@ -19,12 +19,12 @@
 	"name":"Server_2",
 	"port":"22",
 	"keygen":"/home/hamid/.ssh/id_rsa",
-	"fileNameMemory":"/var/www/html/api/files/resource/192.168.1.8_testMemory.txt",
-	"fileNameHardisk":"/var/www/html/api/files/resource/192.168.1.8_testHardisk.txt",
-	"fileNameUptime":"/var/www/html/api/files/resource/192.168.1.8_testUptime.txt",
-	"fileNameServiceStatus":"/var/www/html/api/files/resource/192.168.1.8_testServiceStatus.txt",
-	"fileNameMailStat":"/var/www/html/api/files/resource/192.168.1.8_testMailStat.txt",
-	"fileNameMailq":"/var/www/html/api/files/resource/192.168.1.8_testMailq.txt"
+	"fileNameMemory":"/var/www/html/api/files/resource/192.168.1.4_Memory.txt",
+	"fileNameHardisk":"/var/www/html/api/files/resource/192.168.1.4_Hardisk.txt",
+	"fileNameUptime":"/var/www/html/api/files/resource/192.168.1.4_Uptime.txt",
+	"fileNameServiceStatus":"/var/www/html/api/files/resource/192.168.1.4_ServiceStatus.txt",
+	"fileNameMailStat":"/var/www/html/api/files/resource/192.168.1.4_MailStat.txt",
+	"fileNameMailq":"/var/www/html/api/files/resource/192.168.1.4_Mailq.txt"
 }
 ,{
 	"type":"ssh",
@@ -33,12 +33,12 @@
 	"name":"Server_3",
 	"port":"22222",
 	"keygen":"/home/hamid/.ssh/id_rsa",
-	"fileNameMemory":"/var/www/html/api/files/resource/192.168.1.9_testMemory.txt",
-	"fileNameHardisk":"/var/www/html/api/files/resource/192.168.1.9_testHardisk.txt",
-	"fileNameUptime":"/var/www/html/api/files/resource/192.168.1.9_testUptime.txt",
-	"fileNameServiceStatus":"/var/www/html/api/files/resource/192.168.1.9_testServiceStatus.txt",
-	"fileNameMailStat":"/var/www/html/api/files/resource/192.168.1.9_testMailStat.txt",
-	"fileNameMailq":"/var/www/html/api/files/resource/192.168.1.9_testMailq.txt"
+	"fileNameMemory":"/var/www/html/api/files/resource/192.168.1.5_Memory.txt",
+	"fileNameHardisk":"/var/www/html/api/files/resource/192.168.1.5_Hardisk.txt",
+	"fileNameUptime":"/var/www/html/api/files/resource/192.168.1.5_tUptime.txt",
+	"fileNameServiceStatus":"/var/www/html/api/files/resource/192.168.1.5_ServiceStatus.txt",
+	"fileNameMailStat":"/var/www/html/api/files/resource/192.168.1.5_MailStat.txt",
+	"fileNameMailq":"/var/www/html/api/files/resource/192.168.1.5_Mailq.txt"
 },{
 	"type":"ssh",
 	"ip":"192.168.1.6",
@@ -46,10 +46,10 @@
 	"name":"Server_4",
 	"port":"22",
 	"keygen":"/home/hamid/.ssh/id_rsa",
-	"fileNameMemory":"/var/www/html/api/files/resource/192.168.1.66_testMemory.txt",
-	"fileNameHardisk":"/var/www/html/api/files/resource/192.168.1.66_testHardisk.txt",
-	"fileNameUptime":"/var/www/html/api/files/resource/192.168.1.66_testUptime.txt",
-	"fileNameServiceStatus":"/var/www/html/api/files/resource/192.168.1.66_testServiceStatus.txt",
+	"fileNameMemory":"/var/www/html/api/files/resource/192.168.1.6_Memory.txt",
+	"fileNameHardisk":"/var/www/html/api/files/resource/192.168.1.6_Hardisk.txt",
+	"fileNameUptime":"/var/www/html/api/files/resource/192.168.1.6_Uptime.txt",
+	"fileNameServiceStatus":"/var/www/html/api/files/resource/192.168.1.6_ServiceStatus.txt",
 	"fileNameMailStat":"-",
 	"fileNameMailq":"-"
 },{
@@ -59,10 +59,10 @@
 	"name":"Server_5",
 	"port":"22",
 	"keygen":"/home/hamid/.ssh/id_rsa",
-	"fileNameMemory":"/var/www/html/api/files/resource/192.168.6.223_testMemory.txt",
-	"fileNameHardisk":"/var/www/html/api/files/resource/192.168.6.223_testHardisk.txt",
-	"fileNameUptime":"/var/www/html/api/files/resource/192.168.6.223_testUptime.txt",
-	"fileNameServiceStatus":"/var/www/html/api/files/resource/192.168.6.223_testServiceStatus.txt",
+	"fileNameMemory":"/var/www/html/api/files/resource/192.168.6.7_Memory.txt",
+	"fileNameHardisk":"/var/www/html/api/files/resource/192.168.6.7_Hardisk.txt",
+	"fileNameUptime":"/var/www/html/api/files/resource/192.168.6.7_Uptime.txt",
+	"fileNameServiceStatus":"/var/www/html/api/files/resource/192.168.6.7_ServiceStatus.txt",
 	"fileNameMailStat":"-",
 	"fileNameMailq":"-"
 }]
