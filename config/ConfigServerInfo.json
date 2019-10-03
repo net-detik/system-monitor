@@ -1,8 +1,8 @@
 [{
 	"type":"ssh",
 	"ip":"192.168.1.3",
-	"user":"root",
-	"name":"NS1",
+	"user":"root_server",
+	"name":"Server_1",
 	"port":"22",
 	"keygen":"/home/hamid/.ssh/id_rsa",
 	"fileNameMemory":"/var/www/html/api/files/resource/192.168.1.3_testMemory.txt",
@@ -14,9 +14,9 @@
 }
 ,{
 	"type":"ssh",
-	"ip":"192.168.1.8",
-	"user":"root",
-	"name":"NS2",
+	"ip":"192.168.1.4",
+	"user":"root_server",
+	"name":"Server_2",
 	"port":"22",
 	"keygen":"/home/hamid/.ssh/id_rsa",
 	"fileNameMemory":"/var/www/html/api/files/resource/192.168.1.8_testMemory.txt",
@@ -28,10 +28,10 @@
 }
 ,{
 	"type":"ssh",
-	"ip":"192.168.1.9",
-	"user":"root",
-	"name":"Email External",
-	"port":"12345",
+	"ip":"192.168.1.5",
+	"user":"root_server",
+	"name":"Server_3",
+	"port":"22222",
 	"keygen":"/home/hamid/.ssh/id_rsa",
 	"fileNameMemory":"/var/www/html/api/files/resource/192.168.1.9_testMemory.txt",
 	"fileNameHardisk":"/var/www/html/api/files/resource/192.168.1.9_testHardisk.txt",
@@ -41,9 +41,9 @@
 	"fileNameMailq":"/var/www/html/api/files/resource/192.168.1.9_testMailq.txt"
 },{
 	"type":"ssh",
-	"ip":"192.168.1.66",
-	"user":"root",
-	"name":"Server Backup",
+	"ip":"192.168.1.6",
+	"user":"root_server",
+	"name":"Server_4",
 	"port":"22",
 	"keygen":"/home/hamid/.ssh/id_rsa",
 	"fileNameMemory":"/var/www/html/api/files/resource/192.168.1.66_testMemory.txt",
@@ -54,9 +54,9 @@
 	"fileNameMailq":"-"
 },{
 	"type":"ssh",
-	"ip":"192.168.6.223",
-	"user":"backup-server",
-	"name":"Server Backup2",
+	"ip":"192.168.1.7",
+	"user":"root_server",
+	"name":"Server_5",
 	"port":"22",
 	"keygen":"/home/hamid/.ssh/id_rsa",
 	"fileNameMemory":"/var/www/html/api/files/resource/192.168.6.223_testMemory.txt",
